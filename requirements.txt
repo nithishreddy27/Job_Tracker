@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+pymongo
+dnspython
+python-dotenv
+streamlit
